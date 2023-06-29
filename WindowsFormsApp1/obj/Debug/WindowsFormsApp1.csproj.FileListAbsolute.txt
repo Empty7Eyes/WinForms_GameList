@@ -1,0 +1,15 @@
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\Vizual Studio Prodject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Vizual Studio Prodject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Vizual Studio Prodject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddForm.resources
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DeleteForm.resources
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update1Form.resources
+G:\Vizual Studio Prodject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update2Form.resources
